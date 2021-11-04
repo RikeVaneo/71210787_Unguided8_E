@@ -1,0 +1,26 @@
+Soal 3
+
+Pseudocode
+
+Deklarasi:
+integer: i,n,f1,f2,fibonacci
+
+Deskripsi:
+i=2
+f1=1
+f2=1
+fibonacci=0
+
+if n==1 atau n==2
+	a) fibonacci=1
+
+Cetak "Masukan urutan fibonacci:"
+input n
+
+While i<n
+	a) fibonacci=f1+f2
+	b) f1=f2
+	c) f2=fibonacci
+	d) i=i+1
+
+Cetak "Fibonacci urutan ke "+n+" adalah "+fibonacci

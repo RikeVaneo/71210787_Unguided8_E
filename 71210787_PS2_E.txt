@@ -1,0 +1,5 @@
+Soal 2
+
+Jawaban: gelas yang akan terisi dahulu adalah gelas 1
+
+Penjelasan: air akan selalu menuju tempat yang rendah dengan bagitu ketika mengacu pada soal ketika air masuk ke gelas 4 terlihat pipa yang menuju ke gelas 2 lebih rendah dibandingkan pipa yang menuju ke gelas 6, maka air akan menuju ke gelas 2. Kemudian, di gelas 2, pipa yang menuju ke gelas 1 lebih rendah dibandingkan pipa yang menuju gelas 3, maka air akan menuju gelas 1 dan terhenti disitu sehingga gelas 1 terisi dahulu.
